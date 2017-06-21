@@ -6,5 +6,3 @@ Collection of tips and trics for handling Jabra devices on Linux.
 
 # hiddev demo code
 [hiddev demo code](https://github.com/gnaudio/linux-info/wiki/hiddev-demo-code)
-
-(y)
