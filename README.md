@@ -2,7 +2,8 @@
 Collection of tips and trics for handling Jabra devices on Linux.
 
 # X11 server HID conflict
-TODO: wiki link
+[X11 server HID conflict](https://github.com/gnaudio/linux-info/wiki/X11-server-HID-conflict)
 
 # hiddev demo code
-TODO: wiki link
+[hiddev demo code](https://github.com/gnaudio/linux-info/wiki/hiddev-demo-code)
+
